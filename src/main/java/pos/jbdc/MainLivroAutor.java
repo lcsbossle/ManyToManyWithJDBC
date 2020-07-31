@@ -1,4 +1,4 @@
-package pos.swing.tarefa6;
+package pos.jbdc;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
